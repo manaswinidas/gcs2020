@@ -1,0 +1,3 @@
+[submodule "volunteers"]
+	path = volunteers
+	url = https://github.com/Git-Commit-Show/volunteers.git
